@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydelete",
+        "uuid": 2344590,
+        "checksum": "7amgad"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
